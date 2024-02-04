@@ -25,19 +25,19 @@ Check to see what [types of contributions](/contributing/types-of-contributions.
 
 #### Create a new issue
 
-If you spot a problem with the docs, [search if an issue already exists](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/github/docs/issues/new/choose).
+If you spot a problem with the docs, [search if an issue already exists](https://docs.github.com/en/github/searching-for-information-on-github/searching-on-github/searching-issues-and-pull-requests#search-by-the-title-body-or-comments). If a related issue doesn't exist, you can open a new issue using a relevant [issue form](https://github.com/jharsh1202/open-contribute/issues/new/choose).
 
 #### Solve an issue
 
-Scan through our [existing issues](https://github.com/github/docs/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See "[Label reference](https://docs.github.com/en/contributing/collaborating-on-github-docs/label-reference)" for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
+Scan through our [existing issues](https://github.com/jharsh1202/open-contribute/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See "[Label reference](https://docs.github.com/en/contributing/collaborating-on-github-docs/label-reference)" for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
 
 ### Make Changes
 
-#### Make changes in the UI
+#### Make changes in the Flutter Application
 
-Click **Make a contribution** at the bottom of any docs page to make small changes such as a typo, sentence fix, or a broken link. This takes you to the `.md` file where you can make your changes and [create a pull request](#pull-request) for a review.
-
- <img src="/contributing/images/contribution_cta.png" />
+ Currently most updated stable changes for our flutter application is in **_develop_** branch.
+ Create a new branch from **_develop_** branch, and make your own changes, once you're done with your changes create a PR.
+ This takes you to the `.md` file where you can make your changes and [create a pull request](#pull-request) for a review.
 
 
 #### Make changes locally
@@ -50,7 +50,7 @@ Click **Make a contribution** at the bottom of any docs page to make small chang
 - Using the command line:
   - [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) so that you can make your changes without affecting the original project until you're ready to merge them.
 
-2. Install or update to **Flutter** to mentioned version. For more information, see [the development guide](contributing/development.md).
+2. Install or update to **Flutter** to version 3.16.9 and **Dart** to version 3.2.6. For more information, see [the development guide](contributing/development.md).
 
 3. Create a working branch and start with your changes!
 
