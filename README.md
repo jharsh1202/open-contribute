@@ -1,7 +1,24 @@
 # OpenContribute
 OpenContribute is an open-source platform dedicated to fostering transparency and reliability in contributions to any non-profit organisation, projects or individuals. This platform aims to empower contributors by providing them with a transparent and accountable ecosystem for donating to projects or causes.
 
-#### Lists Tasks of Organisations, projects or individuals
+### How we work?
+**Entity** here is either of Non-profit organization / project / individual.
+- Entity onboarding
+- Entity verification
+- Entity Task Listing (What do they do)
+- Entity Requirement Listing With detailed Breakup (As per the task they do)
+- Donation/Contribution Collection
+- Entity Requirement Listing Verification (Parallel to collection)
+- Entity Redirection to Authorized Sellers/Service Providers
+- Seller's/Service Provider's quote generation as per each requirement in detailed task requirement breakup.
+- Seller's/Service Provider's quote verification
+- Donation/Contribution Reimbursement directly to the Authorized Sellers/Service Providers
+
+
+### Big Plans?
+It's yet in thoughts and have no practical grounds yet, but we aim to bring this platform to blockchain, if you're a blockchain enthusiast, and have good expertise and experience of how we can make this platform more reliable and secure with blockchain. Please connect us at harshit120299@gmail.com.
+
+#### Lists Tasks of organisations, projects or individuals
 This includes: 
 - _Oragnization name_
 - _Oragnization logo_
