@@ -25,12 +25,13 @@ This includes:
 - _is_verified logo_  <img src="https://github.com/jharsh1202/open-contribute/assets/41900044/28bcb3cf-d583-443c-b058-6aa95a60fee8" width="20" height="20">
 - _Task tags: like Education, Food_
 - _Task cause description_
+<img src="https://github.com/jharsh1202/open-contribute-flutter/assets/41900044/486fd75e-6736-4e5b-9444-ac230b55aacd" width="180" height="400">
 
-<img src="https://github.com/jharsh1202/open-contribute/assets/41900044/ab67e690-a96c-4fd1-8bab-e2d1cdff241b" width="180" height="400">
-<img src="https://github.com/jharsh1202/open-contribute/assets/41900044/20558a02-26ad-4a1c-944d-7ebdf71c1da1" width="180" height="400">
+
 
 #### Lists detailed Task and Breakup of Contributions
-<img src="https://github.com/jharsh1202/open-contribute/assets/41900044/9931408b-0bdb-4960-8ac0-95d5a798004b" width="180" height="400">
+<img src="https://github.com/jharsh1202/open-contribute/assets/41900044/ab67e690-a96c-4fd1-8bab-e2d1cdff241b" width="180" height="400">
+<img src="https://github.com/jharsh1202/open-contribute/assets/41900044/20558a02-26ad-4a1c-944d-7ebdf71c1da1" width="180" height="400">
 
 #### Oganization Details / Contribution Breakup
 <img src="https://github.com/jharsh1202/open-contribute/assets/41900044/0670d931-2d7a-4445-b938-1276c0f61a3f" width="180" height="400">
